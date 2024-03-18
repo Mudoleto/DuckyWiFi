@@ -9,6 +9,9 @@ In the section "Additional board gesture URLs" section, paste the link at the en
 │  
 └──>https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json
 
-Now, you must go to "Tools". then "Boards" and at the end "Boards manager" and type in the type section: "DigiStump AVR Boards".
+Now, you must go to "Tools". then "Boards" and at the end "Boards manager" and type in the type section: "Esp32" and install the one named "ArduinoEsp32 boards".
 
-And that's it, you can use your DigisPark board.
+And that's it, you can use your Esp32 board.
+
+
+
